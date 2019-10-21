@@ -6,9 +6,11 @@ It can be online or not, I don't have it hosted anywhere.
  - Send to @StickerAliasBot a (non-animated) sticker
  - Send to @StickerAliasBot tome keywords space-separated
 
-
+![](https://enriquesoria.github.io/publicimages/sticker1.jpg)
 
  - Go to another chat and use it on inline mode and search stickers by your tags
+
+https://enriquesoria.github.io/publicimages/sticker2.jpg
 
 ## Run
 ```bash
